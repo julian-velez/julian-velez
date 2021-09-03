@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://oscar131-maker.github.io/Julian/#home)**
 
 - 📫 How to reach me **juliansolo7189@gmail.com**
 
