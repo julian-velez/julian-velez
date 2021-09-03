@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **juliansolo7189@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
