@@ -11,20 +11,33 @@
 </div>
 
 <div align="left">
+  
+## 🙋‍♂️ About Me  
 
-## 🙋‍♂️ About Me
+👋 Hi! I'm **Julian Velez**, a passionate **Full Stack Developer** from **Colombia 🇨🇴**  
+I enjoy building **modern, scalable, and visually engaging** web applications.
 
-Hi! I'm **Julian Velez**, a passionate **Full Stack Developer** from **Colombia 🇨🇴**.  
-I love building modern, scalable, and visually engaging web applications.
+---
 
-- 🔭 Currently working on **Full Stack projects** with **React, Spring Boot & Node.js**
-- 🌱 Learning **Data Structures & Algorithms** to improve problem-solving skills
-- 🧠 Strong interest in **clean code, UI/UX, and performance**
-- 👯 Open to collaborate on **Open Source & creative projects**
-- 🚀 Always exploring new technologies and best practices
-- ⚡ Fun fact: I enjoy **gaming 🎮 and going to the gym 💪**
+🚀 **What I’m doing**
+- 🔭 Building **full stack applications** using **React, Spring Boot & Node.js**
+- 🌱 Strengthening my skills in **Data Structures & Algorithms**
+- 🧠 Focused on **clean code, performance, and good UI/UX**
 
-📌 *Turning ideas into real, usable products.*
+---
+
+🤝 **Let’s collaborate**
+- 👯 Open to **Open Source** and **creative tech projects**
+- 💡 Always excited to learn and share knowledge
+
+---
+
+⚡ **Fun side**
+- 🎮 Gamer at heart  
+- 💪 Gym enthusiast  
+
+📌 *Turning ideas into real, impactful digital experiences.*
+
 
 
 ## 🚀 Languages and Tools:
