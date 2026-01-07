@@ -29,7 +29,7 @@ I love building modern, scalable, and visually engaging web applications.
 
 
 
-## 🚀 Languages and Tools:
+
 ## 🌐 Web Technologies Stack
 
 🚀 Technologies I use to build **modern, scalable and high-quality web applications**.
@@ -77,6 +77,7 @@ I love building modern, scalable, and visually engaging web applications.
 ---
 
 📌 *Focused on clean architecture, performance, and great user experience.*
+
 
 
 
