@@ -4,7 +4,11 @@
 <h3> I'm a passionate Full Stack Developer from colombia.</h3>
 <div align="center">
 
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70px"/>  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70px"/> 
+  
+</div>
 
 
 
