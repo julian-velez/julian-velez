@@ -85,7 +85,7 @@
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/kavinda-madhuranga-1302a71b7/"
+    href="https:https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/"
     target="blank"
     ><img
       align="center"
