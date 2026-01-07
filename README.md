@@ -138,7 +138,7 @@ I love building modern, scalable, and visually engaging web applications.
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://kaggle.com/https://www.kaggle.com/foveromw"
+    href="https://stackoverflow.com/users/32158597/julian-dev?tab=profile"
     target="blank"
     ><img
       align="center"
