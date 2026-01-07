@@ -152,8 +152,8 @@
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/channel/ucccljhuqkcvtv_8s-f_r25w"
+      src="https://www.youtube.com/@julianvelez6563"
+      alt="https://www.youtube.com/@julianvelez6563"
       height="25"
       width="25"
   /></a>
