@@ -48,13 +48,15 @@ I love building modern, scalable, and visually engaging web applications.
 
 ---
 
+
 ### ⚙️ Backend
 <p align="left">
   <img src="https://img.icons8.com/color/48/nodejs.png" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
   <img src="https://img.icons8.com/color/48/spring-logo.png" />
 </p>
+
 
 ---
 
