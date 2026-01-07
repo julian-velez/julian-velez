@@ -93,79 +93,56 @@ I love building modern, scalable, and visually engaging web applications.
 <br/>
 
 <h3 align="left">🚀 Connect me :</h3>
-<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/julian-velez" target="blank"
-    ><img
-      align="center"
+<p align="left">
+  <a href="https://codepen.io/julian-velez" target="_blank">
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="https://codepen.io/fovero-mw"
-      height="25"
-      width="25" /></a
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://dev.to/julianvelez"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="https://dev.to/foverokavindz"
-      height="25"
-      width="25" /></a
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://x.com/Julianvelezg1"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="kavindzmw"
-      height="25"
-      width="25" /></a
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/"
-      height="25"
-      width="25" /></a
-  >
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://stackoverflow.com/users/32158597/julian-dev?tab=profile"
-    target="blank"
-    >
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://fb.com/https://www.facebook.com/kavindzfovero/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/kavindzfovero/"
-      height="25"
-      width="25" /></a
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://dribbble.com/https://dribbble.com/foveromw"
-    target="blank"
-    >
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@kavindamadhuranga74"
-      height="25"
-      width="25" /></a
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://www.youtube.com/@julianvelez6563"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/@julianvelez6563"
       height="25"
       width="25"
-  /></a>
-
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/julianvelez" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+      height="25"
+      width="25"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Julianvelezg1" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      height="25"
+      width="25"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="25"
+      width="25"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/kavindzfovero/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      height="25"
+      width="25"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@julianvelez6563" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      height="25"
+      width="25"
+    />
+  </a>
 </p>
 
 
-</p>
 
 
