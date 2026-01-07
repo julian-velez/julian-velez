@@ -174,7 +174,7 @@ I love building modern, scalable, and visually engaging web applications.
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://medium.com/@kavindamadhuranga74"
+    href="https://medium.com/@juliansolo71894"
     target="blank"
     ><img
       align="center"
