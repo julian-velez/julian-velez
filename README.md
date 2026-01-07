@@ -11,20 +11,21 @@
 </div>
 
 <div align="left">
+
 ## 🙋‍♂️ About Me
-  
-- 🔭 I’m currently working on **[Covid-19 Tracker] (https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+Hi! I'm **Julian Velez**, a passionate **Full Stack Developer** from **Colombia 🇨🇴**.  
+I love building modern, scalable, and visually engaging web applications.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 Currently working on **Full Stack projects** with **React, Spring Boot & Node.js**
+- 🌱 Learning **Data Structures & Algorithms** to improve problem-solving skills
+- 🧠 Strong interest in **clean code, UI/UX, and performance**
+- 👯 Open to collaborate on **Open Source & creative projects**
+- 🚀 Always exploring new technologies and best practices
+- ⚡ Fun fact: I enjoy **gaming 🎮 and going to the gym 💪**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://oscar131-maker.github.io/Julian/#home)**
+📌 *Turning ideas into real, usable products.*
 
-- 📫 How to reach me **juliansolo7189@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
- </div>
 
 ## 🚀 Languages and Tools:
 
