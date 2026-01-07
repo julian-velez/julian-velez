@@ -30,14 +30,8 @@ I love building modern, scalable, and visually engaging web applications.
 
 
 ## 🚀 Languages and Tools:
+## 🌐 Web Technologies
 
-## 🌐 Web Technologies Stack
-
-🚀 Technologies I use to build **modern, scalable and high-quality web applications**.
-
----
-
-### 🎨 Frontend
 <p align="left">
   <img src="https://img.icons8.com/color/48/html-5.png" />
   <img src="https://img.icons8.com/color/48/css3.png" />
@@ -45,39 +39,20 @@ I love building modern, scalable, and visually engaging web applications.
   <img src="https://img.icons8.com/color/48/react-native.png" />
   <img src="https://img.icons8.com/color/48/redux.png" />
   <img src="https://img.icons8.com/color/48/bootstrap.png" />
-</p>
-
----
-
-### ⚙️ Backend
-<p align="left">
   <img src="https://img.icons8.com/color/48/nodejs.png" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
   <img src="https://img.icons8.com/color/48/spring-logo.png" />
-</p>
-
----
-
-### 🗄️ Databases
-<p align="left">
   <img src="https://img.icons8.com/fluent/48/mysql-logo.png" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
   <img src="https://img.icons8.com/color/48/firebase.png" />
-</p>
-
----
-
-### 🛠️ Tools & DevOps
-<p align="left">
   <img src="https://img.icons8.com/color/48/git.png" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
 </p>
 
----
+📌 *Modern Web Stack • Clean Code • Scalable Apps*
 
-📌 *Focused on clean architecture, performance, and great user experience.*
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
