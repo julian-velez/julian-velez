@@ -8,6 +8,14 @@
   
 </div>
 
+<p align="center">    <a href="https://twitter.com/kavindzmw" target="blank"
+      ><img
+        src="https://img.shields.io/twitter/follow/kavindzmw?logo=twitter&style=flat"
+        alt="kavindzmw"
+    /></a>
+    <img src="https://komarev.com/ghpvc/?username=foverokavindz&label=Profile%20views&color=0e75b6&style=flat" alt="foverokavindz"/>
+  </p>
+
 
 ## 🙋‍♂️ About Me
 
