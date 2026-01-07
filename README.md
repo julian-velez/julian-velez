@@ -152,7 +152,7 @@
     target="blank"
     ><img
       align="center"
-      src="https://www.youtube.com/@julianvelez6563"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="https://www.youtube.com/@julianvelez6563"
       height="25"
       width="25"
