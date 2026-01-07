@@ -57,17 +57,9 @@
 <br/>
 <br/>
 
-## Connect with me  ❤ :
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/julian-velez-6997a4180/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Julianv52194735"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/julianvelez1997/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC44WcSgWmBs_2LRD8z3G_FQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
 <h3 align="left">🚀 Connect me :</h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/https://codepen.io/fovero-mw" target="blank"
+  <a href="https://codepen.io/julian-velez" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
