@@ -30,28 +30,56 @@ I love building modern, scalable, and visually engaging web applications.
 
 
 ## 🚀 Languages and Tools:
-## 🌐 Web Technologies
-
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5.png" />
-  <img src="https://img.icons8.com/color/48/css3.png" />
-  <img src="https://img.icons8.com/color/48/javascript.png" />
-  <img src="https://img.icons8.com/color/48/react-native.png" />
-  <img src="https://img.icons8.com/color/48/redux.png" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-  <img src="https://img.icons8.com/color/48/spring-logo.png" />
-  <img src="https://img.icons8.com/fluent/48/mysql-logo.png" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" />
-  <img src="https://img.icons8.com/color/48/git.png" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/40/html-5.png"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/40/css3.png"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/40/javascript.png"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/40/react-native.png"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.icons8.com/color/40/redux.png"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.icons8.com/color/40/bootstrap.png"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.icons8.com/color/40/nodejs.png"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="38"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/40/java-coffee-cup-logo.png"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.icons8.com/color/40/spring-logo.png"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/40/mysql-logo.png"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/40/firebase.png"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/40/git.png"/>
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="38"/>
+  </a>
 </p>
-
-📌 *Modern Web Stack • Clean Code • Scalable Apps*
 
 
 
