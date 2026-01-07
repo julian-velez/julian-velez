@@ -10,7 +10,7 @@
   
 </div>
 
-
+<div align="left">
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
@@ -23,6 +23,7 @@
 - 📫 How to reach me **juliansolo7189@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+ </div>
 
 ## 🚀 Languages and Tools:
 
