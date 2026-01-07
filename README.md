@@ -126,7 +126,7 @@ I love building modern, scalable, and visually engaging web applications.
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/kavindzfovero/" target="_blank">
+  <a href="https://www.facebook.com/julian.velez.986/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       height="25"
