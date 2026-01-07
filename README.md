@@ -153,18 +153,7 @@ I love building modern, scalable, and visually engaging web applications.
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
     href="https://dribbble.com/https://dribbble.com/foveromw"
     target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-      alt="https://dribbble.com/foveromw"
-      height="25"
-      width="25" /></a
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://www.behance.net/https://www.behance.net/kavindamadhura"
-    target="blank"
     >
-    href="https://medium.com/@juliansolo71894"
-    target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
