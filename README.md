@@ -90,7 +90,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/kavinda-madhuranga-1302a71b7/"
+      alt="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/"
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
