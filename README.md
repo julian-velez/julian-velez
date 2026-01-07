@@ -67,7 +67,7 @@
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://dev.to/https://dev.to/foverokavindz"
+    href="https://dev.to/julianvelez"
     target="blank"
     ><img
       align="center"
