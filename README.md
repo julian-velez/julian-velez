@@ -148,7 +148,7 @@
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://www.youtube.com/c/https://www.youtube.com/channel/ucccljhuqkcvtv_8s-f_r25w"
+    href="https://www.youtube.com/@julianvelez6563"
     target="blank"
     ><img
       align="center"
