@@ -75,19 +75,7 @@ I love building modern, scalable, and visually engaging web applications, combin
 
 ## 📊 GitHub Analytics (Real-Time Stats)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=julian-velez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="Julian's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-velez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195px" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br />
 
   <!-- GitHub Streak Chart -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julian-velez&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
