@@ -1,95 +1,130 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Cover Image"/>
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=00f2fe&height=280&section=header&text=Julian%20Velez&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Banner Julián Velez" />
-
-  <h1>🌌 Frontend & Full Stack Developer 🌌</h1>
+  <!-- Greeting & Name -->
+  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Julian Velez</h1>
   
+  <!-- Typing Effect Subtitle -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;Turning+ideas+into+digital+art;Clean+Code+%26+High+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;Turning+ideas+into+digital+art;Clean+Code+%26+High+Performance" alt="Typing SVG" />
   </p>
 
+  <!-- Intro Center Images -->
   <p align="center">
-    <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tu-correo@email.com">
-      <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-    </a>
-    <a href="https://tu-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-🚀-00F2FE?style=for-the-badge" alt="Portfolio" />
-    </a>
+    <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70px"/>
   </p>
 
-  ---
 </div>
-
-## 🪐 | Sobre Mí
-
-Soy un apasionado **Desarrollador Full Stack** de Colombia 🇨🇴 enfocado en la creación de aplicaciones web modernas, escalables y con un fuerte impacto visual. Me encanta combinar la robustez de una buena arquitectura de backend con interfaces de usuario pulidas, dinámicas y de alto rendimiento.
-
-* **🔭 Actualmente enfocado en:** Proyectos Full Stack avanzados con **React**, **Spring Boot** y **Node.js**.
-* **🌱 Aprendiendo continuamente:** Estructuras de datos, algoritmos avanzados y optimización de renderizado.
-* **🧠 Intereses clave:** Arquitectura limpia, experiencias de usuario (UI/UX) inmersivas, interfaces holográficas y estética digital de vanguardia.
-* **⚡ Dato curioso:** Además de picar código, me vas a encontrar en el gimnasio 🏋️‍♂️ o explorando mundos virtuales en los videojuegos 🎮.
 
 ---
 
-## 🛠️ | Tecnologías de mi Panel de Control
+## 🙋‍♂️ About Me
 
-<div align="center">
+Hi! I'm **Julian Velez**, a passionate **Full Stack Developer** from **Colombia 🇨🇴**.  
+I love building modern, scalable, and visually engaging web applications, combining robust backend architecture with sleek, high-tech user interfaces.
 
-### 🎨 Frontend & Diseño Interactivo
+- 🔭 **Currently working on:** Advanced Full Stack projects with **React, Spring Boot & Node.js**.
+- 🌱 **Learning continuously:** Data Structures & Algorithms to master advanced problem-solving.
+- 🧠 **Core interests:** Clean code, immersive UI/UX, holographic digital interfaces, and high-performance apps.
+- 👯 **Open to collaborate on:** Open Source, innovative, and creative digital projects.
+- 🚀 **Always exploring:** Cutting-edge technologies, rendering workflows, and architecture best practices.
+- ⚡ **Fun fact:** When I'm not coding, you can find me **gaming 🎮** or hitting the **gym 💪**.
+
+> 📌 *Turning complex ideas into pixel-perfect, highly functional digital products.*
+
+---
+
+## 🛠️ Cybernetic Tech Stack
+
+🚀 Technologies I leverage to build modern, interactive, and premium web environments.
+
+### 🎨 Frontend & Interactive Design
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Bases de Datos
+### ⚙️ Backend & Core Architecture
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
-### 🛠️ Herramientas & Entornos
+### 🗄️ Database Management
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🔧 Tools & Control Panels
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
-
-</div>
 
 ---
 
-## 📊 | GitHub Stats (Estadísticas en Tiempo Real)
+## 📊 GitHub Analytics (Real-Time Stats)
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=julian-velez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="Estadísticas de Julián" />
+        <img src="https://github-readme-stats.vercel.app/api?username=julian-velez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="Julian's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-velez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195px" alt="Lenguajes más usados" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-velez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195px" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 
   <br />
 
+  <!-- GitHub Streak Chart -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julian-velez&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
 
+## 🚀 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/julian-velez" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/julianvelez" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Julianvelezg1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/julian.velez.986/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@julianvelez6563" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
+  </a>
+</p>
+
+<br />
+
 <div align="center">
-  <p><i>"Transformando líneas de código en experiencias visuales interactivas y funcionales."</i></p>
-  <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Línea de Neón" />
+  <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Neon Divider" />
 </div>
