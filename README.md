@@ -95,36 +95,30 @@ I love building modern, scalable, and visually engaging web applications, combin
 
 ---
 
-## 🚀 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/julian-velez" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/julianvelez" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Julianvelezg1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/julian.velez.986/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@julianvelez6563" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
-  </a>
-</p>
-
-<br />
+## ⚡ Connect With Me
 
 <div align="center">
+  <p>Establish a secure connection connection with my digital networks:</p>
+
+  <a href="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://codepen.io/julian-velez" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>&nbsp;
+  <a href="https://dev.to/julianvelez" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" />
+  </a>&nbsp;
+  <a href="https://x.com/Julianvelezg1" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/julian.velez.986/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@julianvelez6563" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <br /><br />
   <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Neon Divider" />
 </div>
