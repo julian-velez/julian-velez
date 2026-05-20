@@ -1,144 +1,95 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Cover Image"/>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm julian velez</h1>
-<h3> I'm a passionate Full Stack Developer from colombia.</h3>
 <div align="center">
 
-<div align="center">
+  <img src="https://capsule-render.vercel.app/main?type=waving&color=00f2fe&height=280&section=header&text=Julian%20Velez&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Banner Julián Velez" />
 
-<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70px"/>  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70px"/> 
+  <h1>🌌 Frontend & Full Stack Developer 🌌</h1>
   
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;Turning+ideas+into+digital+art;Clean+Code+%26+High+Performance" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:tu-correo@email.com">
+      <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    </a>
+    <a href="https://tu-portfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-🚀-00F2FE?style=for-the-badge" alt="Portfolio" />
+    </a>
+  </p>
+
+  ---
 </div>
 
-<div align="left">
-  
-## 🙋‍♂️ About Me
+## 🪐 | Sobre Mí
 
-Hi! I'm *Julian Velez, a passionate **Full Stack Developer* from *Colombia 🇨🇴*.  
-I love building modern, scalable, and visually engaging web applications.
+Soy un apasionado **Desarrollador Full Stack** de Colombia 🇨🇴 enfocado en la creación de aplicaciones web modernas, escalables y con un fuerte impacto visual. Me encanta combinar la robustez de una buena arquitectura de backend con interfaces de usuario pulidas, dinámicas y de alto rendimiento.
 
-- 🔭 Currently working on *Full Stack projects* with *React, Spring Boot & Node.js*
-- 🌱 Learning *Data Structures & Algorithms* to improve problem-solving skills
-- 🧠 Strong interest in *clean code, UI/UX, and performance*
-- 👯 Open to collaborate on *Open Source & creative projects*
-- 🚀 Always exploring new technologies and best practices
-- ⚡ Fun fact: I enjoy *gaming 🎮 and going to the gym 💪*
-
-📌 Turning ideas into real, usable products.
-
-
-
-
-
-## 🌐 Web Technologies Stack
-
-🚀 Technologies I use to build *modern, scalable and high-quality web applications*.
+* **🔭 Actualmente enfocado en:** Proyectos Full Stack avanzados con **React**, **Spring Boot** y **Node.js**.
+* **🌱 Aprendiendo continuamente:** Estructuras de datos, algoritmos avanzados y optimización de renderizado.
+* **🧠 Intereses clave:** Arquitectura limpia, experiencias de usuario (UI/UX) inmersivas, interfaces holográficas y estética digital de vanguardia.
+* **⚡ Dato curioso:** Además de picar código, me vas a encontrar en el gimnasio 🏋️‍♂️ o explorando mundos virtuales en los videojuegos 🎮.
 
 ---
 
-### 🎨 Frontend
+## 🛠️ | Tecnologías de mi Panel de Control
+
+<div align="center">
+
+### 🎨 Frontend & Diseño Interactivo
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5.png" />
-  <img src="https://img.icons8.com/color/48/css3.png" />
-  <img src="https://img.icons8.com/color/48/javascript.png" />
-  <img src="https://img.icons8.com/color/48/react-native.png" />
-  <img src="https://img.icons8.com/color/48/redux.png" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
+### ⚙️ Backend & Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🛠️ Herramientas & Entornos
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.icons8.com/color/48/nodejs.png" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-  <img src="https://img.icons8.com/color/48/spring-logo.png" />
-</p>
+## 📊 | GitHub Stats (Estadísticas en Tiempo Real)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=julian-velez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="Estadísticas de Julián" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-velez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195px" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julian-velez&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.icons8.com/fluent/48/mysql-logo.png" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" />
-</p>
-
----
-
-### 🛠️ Tools & DevOps
-<p align="left">
-  <img src="https://img.icons8.com/color/48/git.png" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-</p>
-
----
-
-📌 Focused on clean architecture, performance, and great user experience.
-
-
-
-
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-
-<h3 align="left">🚀 Connect me :</h3>
-<p align="left">
-  <a href="https://codepen.io/julian-velez" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      height="25"
-      width="25"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/julianvelez" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      height="25"
-      width="25"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Julianvelezg1" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      height="25"
-      width="25"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/juli%C3%A1n-v%C3%A9lez-gait%C3%A1n-6997a4180/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="25"
-      width="25"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/julian.velez.986/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="25"
-      width="25"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@julianvelez6563" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      height="25"
-      width="25"
-    />
-  </a>
-</p>
+<div align="center">
+  <p><i>"Transformando líneas de código en experiencias visuales interactivas y funcionales."</i></p>
+  <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Línea de Neón" />
+</div>
